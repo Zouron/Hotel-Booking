@@ -1,0 +1,1 @@
+﻿SELECT rid AS Room, COUNT(*) AS Number FROM bookings GROUP BY rid;

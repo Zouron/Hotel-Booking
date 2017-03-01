@@ -1,0 +1,12 @@
+﻿INSERT INTO bookings (rid,username,checkin,checkout,cost) values('103','acurry@gmail.com','2016-05-15','2016-05-28',350.55);
+INSERT INTO bookings (rid,username,checkin,checkout,cost) values('203','bwayne@gmail.com','2016-05-01','2016-05-12',132.55);
+INSERT INTO bookings (rid,username,checkin,checkout,cost) values('203','ballen@gmail.com','2016-06-02','2016-06-07',145.00);
+INSERT INTO bookings (rid,username,checkin,checkout,cost) values('G02','bwayne@gmail.com','2016-06-10','2016-06-14',900.00);
+INSERT INTO bookings (rid,username,checkin,checkout,cost) values('G02','oqueen@gmail.com','2016-07-01','2016-07-14',55.00);
+INSERT INTO bookings (rid,username,checkin,checkout,cost) values('G02','tstank@gmail.com','2016-07-20','2016-07-22',126.00);
+INSERT INTO bookings (rid,username,checkin,checkout,cost) values('203','bwayne@gmail.com','2016-07-22','2016-07-23',850.45);
+INSERT INTO bookings (rid,username,checkin,checkout,cost) values('104','acurry@gmail.com','2016-08-03','2016-08-13',265.00);
+INSERT INTO bookings (rid,username,checkin,checkout,cost) values('301','oqueen@gmail.com','2016-08-16','2016-08-22',133.36);
+INSERT INTO bookings (rid,username,checkin,checkout,cost) values('303','ballen@gmail.com','2016-09-01','2016-09-10',145.13);
+INSERT INTO bookings (rid,username,checkin,checkout,cost) values('303','bwayne@gmail.com','2016-10-15','2016-10-23',395.84);
+INSERT INTO bookings (rid,username,checkin,checkout,cost) values('104','bwayne@gmail.com','2016-11-21','2016-11-30',264.33);
